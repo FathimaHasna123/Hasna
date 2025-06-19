@@ -46,7 +46,7 @@ Feel free to check out more projects in my [Repositories](https://github.com/Fat
 
 - 📧 **Email:** (fathimahasnaparammal@gmail.com)
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/fathima-hasna-337111362/)
-- 🐙 **GitHub:** [Your GitHub](https://github.com/yourusername)
+- 🐙 **GitHub:** (https://github.com/FathimaHasna123/)
 
 ---
 
