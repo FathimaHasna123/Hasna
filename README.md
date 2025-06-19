@@ -23,7 +23,7 @@ _A short one-liner description_
 - **Features:** Authentication, CRUD operations, REST API, responsive design
 - Included pages: About, Services, Doctors, Contact, and Appointment.
 - Enabled dynamic appointment booking with form handling and scheduling features.
-
+Feel free to check out more projects in my [Repositories](https://github.com/FathimaHasna123/hospital.git)!
 ### ⚡ [Furniture Project](#)
 _Another brief description_
 - **Tech:** Python, Django, React.js, PostgreSQL
@@ -44,8 +44,8 @@ Feel free to check out more projects in my [Repositories](https://github.com/Fat
 
 ## 💬 **Let's Connect**
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourusername)
+- 📧 **Email:** (fathimahasnaparammal@gmail.com)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/fathima-hasna-337111362/)
 - 🐙 **GitHub:** [Your GitHub](https://github.com/yourusername)
 
 ---
