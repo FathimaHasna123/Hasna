@@ -30,7 +30,7 @@ _Another brief description_
 - **Features:** Real-time updates, user dashboards, third-party API integration
 - Implemented key modules: Shop, Cart, and Product Listings.
 - Added user account features including Wishlist and Blog sections.
-Feel free to check out more projects in my [Repositories](https://github.com/yourusername?tab=repositories)!
+Feel free to check out more projects in my [Repositories](https://github.com/FathimaHasna123/furniture-react-1.git)!
 
 ---
 
